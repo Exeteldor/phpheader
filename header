@@ -13,7 +13,7 @@ creatting header for php cadereyta
       </span>
   </div>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="index.html"><img src="img/LOGO CON SOMOS.png" alt="somos de cadereyta" width="300" height="150"></a>
+        <a class="navbar-brand" href="index.html"><img src="img/LOGO CON SOMOS.png" alt="somos de cadereyta" width="300" height="150">  </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
           <span class="navbar-toggler-icon"></span>
         </button>

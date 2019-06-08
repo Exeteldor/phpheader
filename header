@@ -1,8 +1,6 @@
-# phpheader
-creatting header for php cadereyta
-
-
 ?php require 'header.php' ?> 
+
+
 <header>
   <div id="StayFocusd-infobar" style="display:none;">
       <img src="chrome-extension://laankejkbhbdhmipfmgcngdelahlfoji/common/img/eye_19x19_red.png">
